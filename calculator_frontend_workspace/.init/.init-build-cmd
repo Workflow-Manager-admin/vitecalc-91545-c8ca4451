@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/vitecalc-91545-c8ca4451/calculator_frontend_workspace/calculator_frontend"
+}
